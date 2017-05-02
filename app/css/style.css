@@ -1,9 +1,26 @@
+.header {
+  width: 100%;
+  height: 200px;
+  background-color: #fe4423;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-border-radius: 2px;
+          border-radius: 2px; }
+
+.footer {
+  width: 100%;
+  height: 500px;
+  background-color: #009926; }
+
 body {
-  background-color: #4183c4; }
+  background-color: #21c432; }
 
 #title {
   font-size: 50px;
-  color: red; }
+  color: red;
+  font-weight: bold; }
 
 .wrapper {
   width: 500px;
