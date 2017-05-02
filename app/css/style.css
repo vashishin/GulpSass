@@ -1,0 +1,11 @@
+body {
+  background-color: #4183c4; }
+
+#title {
+  font-size: 50px;
+  color: red; }
+
+.wrapper {
+  width: 500px;
+  color: #009926;
+  background-color: #c4b62a; }
